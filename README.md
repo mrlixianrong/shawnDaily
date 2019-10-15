@@ -25,3 +25,7 @@ How many years will you spend to forget your first love,does it totally disappea
  2019-10-14Mon 
 
 adt is so stupid being lacking files all around,android studio is neither a good thing being hard to under stand and don't have a fixed layout changing from one project to another,AS depends on what project open and makes diffent layout I am not like that,I like everything stay where it should be but not changing again and again.
+
+ 2019-10-15Tue 
+
+there are two kinds of pain:the sort of pain that makes you strong or useless pain,the sort of pain that's only suffering.I have no patience for useless things.
