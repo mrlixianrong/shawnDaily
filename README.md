@@ -29,3 +29,7 @@ adt is so stupid being lacking files all around,android studio is neither a good
  2019-10-15Tue 
 
 there are two kinds of pain:the sort of pain that makes you strong or useless pain,the sort of pain that's only suffering.I have no patience for useless things.
+
+ 2019-10-16Wed 
+
+gone with the wind.tomorraw is another day.
