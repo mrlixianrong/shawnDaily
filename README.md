@@ -1,5 +1,4 @@
 # shawnDaily
-draft(s) when I feel good
 
  2019-10-11Fri 
 
@@ -33,3 +32,7 @@ there are two kinds of pain:the sort of pain that makes you strong or useless pa
  2019-10-16Wed 
 
 gone with the wind.tomorraw is another day.
+
+ 2019-10-18Fri 
+
+how much time does a developer actually spend in coding.
